@@ -2,7 +2,7 @@
 
 An animated drawer that presented in **flutter europe 2020**.
 
-![animated drawer](/video/eg.png)
+<img src="/video/eg.png" width="50%" height="50%">
 
 
 

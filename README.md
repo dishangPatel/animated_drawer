@@ -1,7 +1,11 @@
-<<<<<<< HEAD
 # animated_drawer
 
-A new Flutter project.
+An animated drawer that presented in **flutter europe 2020**.
+
+
+
+
+
 
 ## Getting Started
 
@@ -17,4 +21,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 =======
 # flutter_UIs
->>>>>>> f0abe37b9a2aac1a3530aa82e4635d55aaf9bebc
